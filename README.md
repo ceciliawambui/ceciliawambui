@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Cecilia Wambui
 
-I'm a Software Developer with a deep love for building dynamic web applications. My tech stack includes React for crafting sleek user interfaces and Django for creating powerful back-end systems. I'm driven by curiosity and a constant desire to learn and experiment with new technologies.
+I'm a Full-stack Software Developer with a deep love for building dynamic web applications. My tech stack includes React for crafting sleek user interfaces and Django for creating powerful back-end systems. I'm driven by curiosity and a constant desire to learn and experiment with new technologies.
 
 Let's create something awesome together! 🌟
 
