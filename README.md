@@ -14,7 +14,8 @@ Got an exciting project in mind? Let's make it happen together! - [Email Me](mai
 ### GitHub Stats
 ![Cecilia Wambui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceciliawambui&show_icons=true&theme=radical)  
 
-
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/ceciliawambui/count.svg)
 
 
 
