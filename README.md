@@ -9,7 +9,7 @@ Got an exciting project in mind? Let's make it happen together! - [Email Me](mai
 
 ### 🔧 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliawambui&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliawambui&layout=compact&theme=radical)  
 
 ### GitHub Stats
 ![Cecilia Wambui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceciliawambui&show_icons=true&theme=radical)  
